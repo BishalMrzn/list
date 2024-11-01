@@ -8,6 +8,7 @@ function App() {
     <div>
    {/* <Listgroup/> */}
    <Carousel/>
+   <Card/>
     </div>
   );
 }
